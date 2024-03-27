@@ -38,7 +38,7 @@ print(new_message) #tambien pudo ser message = message.replace('World','Universe
 #Usando el comando +
 gretting = 'Hello'
 name = 'Kique'
-message = getting + ', ' + name 
+message = gretting + ', ' + name 
 print(message)
 
 #Usando la instruccion format
